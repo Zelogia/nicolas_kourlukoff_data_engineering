@@ -1,5 +1,5 @@
 {
-  "name": "app_name",
+  "name": "jenkins_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
